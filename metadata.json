@@ -1,0 +1,6 @@
+{
+  "name": "SCREAM & SMASH",
+  "description": "An interactive 3D voice-powered arcade runner where your scream fuels superpowered kicks to shatter hurdles, wooden barriers, boulders, and brick walls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
